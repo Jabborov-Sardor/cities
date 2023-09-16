@@ -1,0 +1,993 @@
+.desktop,
+.desktop * {
+  box-sizing: border-box;
+}
+.desktop {
+  background: #ffffff;
+  width: 1440px;
+  height: 3630px;
+  position: relative;
+  overflow: hidden;
+}
+.frame {
+  width: 1440px;
+  height: 60px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle {
+  background: #ffffff;
+  width: 1440px;
+  height: 60px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame2 {
+  width: 940px;
+  height: 60px;
+  position: absolute;
+  left: 250px;
+  top: 0px;
+}
+.velocity {
+  color: #69b9ff;
+  text-align: left;
+  font: 400 25px/25px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 0px;
+  top: 11px;
+  width: 144px;
+}
+.frame3 {
+  width: 183px;
+  height: 60px;
+  position: absolute;
+  left: 757px;
+  top: 0px;
+}
+.contact {
+  color: #676770;
+  text-align: left;
+  font: 400 16px/20px "Open Sans", sans-serif;
+  position: absolute;
+  left: 105px;
+  top: 19px;
+  width: 58px;
+}
+.home {
+  color: #0082f3;
+  text-align: left;
+  font: 400 15px/20px "Open Sans", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 19px;
+  width: 45px;
+}
+.rectangle2 {
+  background: #69b9ff;
+  width: 1440px;
+  height: 4px;
+  position: absolute;
+  left: 0px;
+  top: 654px;
+}
+.frame4 {
+  width: 1440px;
+  height: 594px;
+  position: absolute;
+  left: 0px;
+  top: 60px;
+}
+.image {
+  width: 1440px;
+  height: 594px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame5 {
+  width: 940px;
+  height: 200px;
+  position: absolute;
+  left: 250px;
+  top: 195px;
+}
+.frame6 {
+  width: 940px;
+  height: 45px;
+  position: absolute;
+  left: 0px;
+  top: 155px;
+}
+.frame7 {
+  width: 138px;
+  height: 45px;
+  position: absolute;
+  left: calc(50% - 170px);
+  top: 0px;
+}
+.rectangle3 {
+  background: #69b9ff;
+  border-radius: 4px;
+  width: 138px;
+  height: 45px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.sign-up {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px/21px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 39px);
+  top: 11px;
+  width: 78px;
+}
+.frame8 {
+  width: 183px;
+  height: 43px;
+  position: absolute;
+  left: calc(50% - 12px);
+  top: 1px;
+}
+.rectangle4 {
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 183px;
+  height: 43px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.learn-more {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px/21px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 60.5px);
+  top: 10px;
+  width: 121px;
+}
+.this-is-velocity {
+  color: #ffffff;
+  text-align: center;
+  font: 400 59px/60px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 264px);
+  top: -11px;
+  width: 529px;
+}
+.frame9 {
+  width: 1440px;
+  height: 583px;
+  position: absolute;
+  left: 0px;
+  top: 654px;
+}
+.rectangle5 {
+  background: #ffffff;
+  width: 1440px;
+  height: 583px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame10 {
+  width: 940px;
+  height: 422.78px;
+  position: absolute;
+  left: 250px;
+  top: 80px;
+}
+.frame11 {
+  width: 960px;
+  height: 290.78px;
+  position: absolute;
+  left: -10px;
+  top: 132px;
+}
+.frame12 {
+  width: 300px;
+  height: 291px;
+  position: absolute;
+  left: 10px;
+  top: 0px;
+}
+.rectangle6 {
+  background: #ffffff;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #dcebf7;
+  border-width: 1px;
+  width: 300px;
+  height: 291px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique {
+  color: #6a859c;
+  text-align: center;
+  font: 400 14px/25px "Open Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 134px);
+  top: 193px;
+  width: 268px;
+}
+.image2 {
+  background: #69b9ff;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 10px;
+  width: 94px;
+  height: 94px;
+  position: absolute;
+  left: 103px;
+  top: 36px;
+  box-shadow: 0px 0px 0px 0px rgba(46, 157, 255, 1);
+  overflow: hidden;
+}
+.row-1-1 {
+  position: absolute;
+  inset: 0;
+}
+.watch {
+  width: 56.4px;
+  height: 75.2px;
+  position: static;
+}
+.group {
+  position: absolute;
+  left: 18.8px;
+  top: 9.4px;
+  overflow: visible;
+}
+.graphic-design {
+  color: #676770;
+  text-align: center;
+  font: 400 20px/30px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 127px);
+  top: 149px;
+  width: 253px;
+}
+.frame13 {
+  width: 300px;
+  height: 291px;
+  position: absolute;
+  left: 330px;
+  top: 0px;
+}
+.awesome-code {
+  color: #676770;
+  text-align: center;
+  font: 400 20px/30px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 118px);
+  top: 149px;
+  width: 236px;
+}
+.minimize {
+  width: 68.93px;
+  height: 68.93px;
+  position: static;
+}
+.group2 {
+  position: absolute;
+  left: 12.53px;
+  top: 12.53px;
+  overflow: visible;
+}
+.frame14 {
+  width: 300px;
+  height: 291px;
+  position: absolute;
+  left: 650px;
+  top: 0px;
+}
+.archive {
+  width: 75.2px;
+  height: 56.4px;
+  position: static;
+}
+.group3 {
+  position: absolute;
+  left: 9.4px;
+  top: 18.8px;
+  overflow: visible;
+}
+.free-template {
+  color: #676770;
+  text-align: center;
+  font: 400 20px/30px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 118px);
+  top: 149px;
+  width: 235px;
+}
+.frame15 {
+  width: 940px;
+  height: 72px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.this-is-some-text-inside-of-a-div-block {
+  color: #8e8e9c;
+  text-align: center;
+  font: 400 17px/20px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 239px);
+  top: 50px;
+  width: 478px;
+}
+.what-we-do {
+  color: #676770;
+  text-align: center;
+  font: 400 30px/36px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 119px);
+  top: -3px;
+  width: 238px;
+}
+.frame16 {
+  width: 1440px;
+  height: 842px;
+  position: absolute;
+  left: 0px;
+  top: 1237px;
+}
+.rectangle7 {
+  background: #192024;
+  width: 1440px;
+  height: 842px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame17 {
+  width: 940px;
+  height: 682.23px;
+  position: absolute;
+  left: 250px;
+  top: 79.78px;
+}
+.frame18 {
+  width: 960px;
+  height: 550.23px;
+  position: absolute;
+  left: -10px;
+  top: 132px;
+}
+.frame19 {
+  width: 460px;
+  height: 550px;
+  position: absolute;
+  left: 10px;
+  top: 0.22px;
+}
+.rectangle8 {
+  border-radius: 5px;
+  width: 460px;
+  height: 550px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame20 {
+  width: 183px;
+  height: 43px;
+  position: absolute;
+  left: calc(50% - 91px);
+  top: 492px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius {
+  color: #ffffff;
+  text-align: center;
+  font: 400 14px/25px "Open Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 200px);
+  top: 375px;
+  width: 400px;
+}
+.image3 {
+  width: 430px;
+  height: 287px;
+  position: absolute;
+  left: calc(50% - 215px);
+  top: calc(50% - 260px);
+}
+.services-one {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px/30px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 107px);
+  top: 322px;
+  width: 214px;
+}
+.frame21 {
+  width: 460px;
+  height: 550px;
+  position: absolute;
+  left: 490px;
+  top: 0.22px;
+}
+.services-two {
+  color: #ffffff;
+  text-align: center;
+  font: 400 20px/30px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 109px);
+  top: 321px;
+  width: 218px;
+}
+.frame22 {
+  width: 183px;
+  height: 43px;
+  position: absolute;
+  left: calc(50% - 91px);
+  top: 491px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius2 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 14px/25px "Open Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 200px);
+  top: 374px;
+  width: 400px;
+}
+.this-is-some-text-inside-of-a-div-block2 {
+  color: #e8e8e8;
+  text-align: center;
+  font: 400 17px/20px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 239px);
+  top: 50.22px;
+  width: 478px;
+}
+.services {
+  color: #ffffff;
+  text-align: center;
+  font: 400 30px/36px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 85px);
+  top: -2.78px;
+  width: 170px;
+}
+.frame23 {
+  width: 1440px;
+  height: 1155px;
+  position: absolute;
+  left: 0px;
+  top: 2079px;
+}
+.rectangle9 {
+  background: #ffffff;
+  width: 1440px;
+  height: 1155px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame24 {
+  width: 940px;
+  height: 994.66px;
+  position: absolute;
+  left: 250px;
+  top: 80.02px;
+}
+.frame25 {
+  width: 940px;
+  height: 862.66px;
+  position: absolute;
+  left: 0px;
+  top: 132px;
+}
+.frame26 {
+  width: 940px;
+  height: 45px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame27 {
+  width: 196px;
+  height: 21px;
+  position: absolute;
+  left: calc(50% - 310px);
+  top: 11.98px;
+}
+.rectangle10 {
+  background: #2e80b6;
+  border-radius: 4px;
+  width: 196px;
+  height: 21px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.tab-button-1 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px/21px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 68px);
+  top: -1px;
+  width: 136px;
+}
+.frame28 {
+  width: 196px;
+  height: 21px;
+  position: absolute;
+  left: calc(50% - -114px);
+  top: 11.98px;
+}
+.rectangle11 {
+  background: #92a0ad;
+  border-radius: 4px;
+  width: 196px;
+  height: 21px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.tab-button-3 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px/21px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 68px);
+  top: -1px;
+  width: 136px;
+}
+.frame29 {
+  width: 196px;
+  height: 21px;
+  position: absolute;
+  left: calc(50% - 98px);
+  top: 11.98px;
+}
+.tab-button-2 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 16px/21px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 68px);
+  top: -1px;
+  width: 136px;
+}
+.frame30 {
+  width: 940px;
+  height: 767.66px;
+  position: absolute;
+  left: 0px;
+  top: 85px;
+}
+.some-title-here {
+  color: #676770;
+  text-align: center;
+  font: 400 31px/36px "Open Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 116px);
+  top: 642.98px;
+  width: 232px;
+}
+.duis-cursus-mi-quis-viverra-ornare-eros-dolor-interdum-nulla-ut-commodo-diam-libero-vitae-erat {
+  color: #6a859c;
+  text-align: center;
+  font: 400 13px/25px "Open Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 315px);
+  top: 717.98px;
+  width: 630px;
+}
+.aenean-faucibus-nibh-et-justo-cursus-id-rutrum-lorem-imperdiet-nunc-ut-sem-vitae-risus-tristique-posuere {
+  color: #6a859c;
+  text-align: center;
+  font: 400 13px/25px "Open Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 342px);
+  top: 742.98px;
+  width: 685px;
+}
+.image4 {
+  width: 940px;
+  height: 627px;
+  position: absolute;
+  left: calc(50% - 470px);
+  top: calc(50% - 383.84px);
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique2 {
+  color: #6a859c;
+  text-align: center;
+  font: 400 13px/25px "Open Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 354px);
+  top: 692.98px;
+  width: 709px;
+}
+.this-is-some-text-inside-of-a-div-block3 {
+  color: #8e8e9c;
+  text-align: center;
+  font: 400 17px/20px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 239px);
+  top: 49.98px;
+  width: 478px;
+}
+.tab-section {
+  color: #676770;
+  text-align: center;
+  font: 400 30px/36px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: calc(50% - 120px);
+  top: -3.02px;
+  width: 240px;
+}
+.frame31 {
+  width: 960px;
+  height: 225px;
+  position: absolute;
+  left: 240px;
+  top: 3268.67px;
+}
+.frame32 {
+  width: 319.98px;
+  height: 188px;
+  position: absolute;
+  left: 319.98px;
+  top: 0px;
+}
+.rectangle12 {
+  background: #d5d5e0;
+  width: 299.98px;
+  height: 1px;
+  position: absolute;
+  left: 10px;
+  top: 71px;
+}
+.frame33 {
+  width: 300px;
+  height: 31px;
+  position: absolute;
+  left: 10.02px;
+  top: 40.33px;
+}
+.rectangle13 {
+  width: 300px;
+  height: 31px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.phasellus-gravida-semper-nisi {
+  color: #668cad;
+  text-align: left;
+  font: 400 13px/20px "Open Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 189px;
+}
+.rectangle14 {
+  background: #d5d5e0;
+  width: 299.98px;
+  height: 1px;
+  position: absolute;
+  left: 10px;
+  top: 108px;
+}
+.frame34 {
+  width: 300px;
+  height: 31px;
+  position: absolute;
+  left: 10.02px;
+  top: 77.33px;
+}
+.suspendisse-nisl-elit {
+  color: #668cad;
+  text-align: left;
+  font: 400 13px/20px "Open Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 130px;
+}
+.rectangle15 {
+  background: #d5d5e0;
+  width: 299.98px;
+  height: 1px;
+  position: absolute;
+  left: 10px;
+  top: 145px;
+}
+.frame35 {
+  width: 300px;
+  height: 31px;
+  position: absolute;
+  left: 10.02px;
+  top: 114.33px;
+}
+.dellentesque-habitant-morbi {
+  color: #668cad;
+  text-align: left;
+  font: 400 13px/20px "Open Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 186px;
+}
+.rectangle16 {
+  background: #d5d5e0;
+  width: 299.98px;
+  height: 1px;
+  position: absolute;
+  left: 10px;
+  top: 182px;
+}
+.frame36 {
+  width: 300px;
+  height: 31px;
+  position: absolute;
+  left: 10.02px;
+  top: 151.33px;
+}
+.etiam-sollicitudin-ipsum {
+  color: #668cad;
+  text-align: left;
+  font: 400 13px/20px "Open Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 153px;
+}
+.useful-links {
+  color: #676770;
+  text-align: left;
+  font: 400 18px/20px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 10.02px;
+  top: -1.67px;
+  width: 167px;
+}
+.frame37 {
+  width: 319.98px;
+  height: 225px;
+  position: absolute;
+  left: 639.97px;
+  top: 0px;
+}
+.frame38 {
+  width: 299.98px;
+  height: 37px;
+  position: absolute;
+  left: 10px;
+  top: 40px;
+}
+.image5 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0.03px;
+  top: 0.33px;
+  overflow: hidden;
+}
+.group4 {
+  position: absolute;
+  left: 0.93px;
+  top: 2.67px;
+  overflow: visible;
+}
+.rectangle17 {
+  background: #d5d5e0;
+  width: 269.98px;
+  height: 1px;
+  position: absolute;
+  left: 30px;
+  top: 31px;
+}
+.frame39 {
+  width: 270px;
+  height: 31px;
+  position: absolute;
+  left: 30.03px;
+  top: 0.33px;
+}
+.rectangle18 {
+  width: 270px;
+  height: 31px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.twitter {
+  color: #668cad;
+  text-align: left;
+  font: 400 13px/20px "Open Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 43px;
+}
+.frame40 {
+  width: 299.98px;
+  height: 37px;
+  position: absolute;
+  left: 10px;
+  top: 77px;
+}
+.group5 {
+  position: absolute;
+  left: 1.33px;
+  top: 0.67px;
+  overflow: visible;
+}
+.facebook {
+  color: #668cad;
+  text-align: left;
+  font: 400 14px/20px "Open Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 64px;
+}
+.frame41 {
+  width: 299.98px;
+  height: 37px;
+  position: absolute;
+  left: 10px;
+  top: 114px;
+}
+.row-1-12 {
+  position: absolute;
+  left: 2.66px;
+  top: 0.6px;
+  overflow: visible;
+}
+.pinterest {
+  color: #668cad;
+  text-align: left;
+  font: 400 13px/20px "Open Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 57px;
+}
+.frame42 {
+  width: 299.98px;
+  height: 37px;
+  position: absolute;
+  left: 10px;
+  top: 151px;
+}
+.group6 {
+  position: absolute;
+  left: 1.27px;
+  top: 1.33px;
+  overflow: visible;
+}
+.google {
+  color: #668cad;
+  text-align: left;
+  font: 400 13px/20px "Open Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 46px;
+}
+.frame43 {
+  width: 299.98px;
+  height: 37px;
+  position: absolute;
+  left: 10px;
+  top: 188px;
+}
+.row-1-13 {
+  position: absolute;
+  left: 1.07px;
+  top: 3.87px;
+  overflow: visible;
+}
+.webflow {
+  color: #668cad;
+  text-align: left;
+  font: 400 13px/20px "Open Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 55px;
+}
+.social {
+  color: #676770;
+  text-align: left;
+  font: 400 18px/20px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 10.03px;
+  top: -1.67px;
+  width: 84px;
+}
+.frame44 {
+  width: 319.98px;
+  height: 175px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.about-velocity {
+  color: #676770;
+  text-align: left;
+  font: 400 18px/20px "Open Sans", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 10px;
+  top: -1.67px;
+  width: 198px;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-suspendisse-varius-enim-in-eros-elementum-tristique-duis-cursus-mi-quis-viverra-ornare-eros-dolor-interdum-nulla-ut-commodo-diam-libero-vitae-erat {
+  color: #6a859c;
+  text-align: left;
+  font: 400 14px/25px "Open Sans", sans-serif;
+  position: absolute;
+  left: 10px;
+  top: 43.33px;
+  width: 299px;
+}
+.rectangle19 {
+  background: #dbdbdb;
+  width: 1440px;
+  height: 1px;
+  position: absolute;
+  left: 0px;
+  top: 3527.67px;
+}
+.frame45 {
+  width: 1440px;
+  height: 101px;
+  position: absolute;
+  left: 0px;
+  top: 3529px;
+}
+.rectangle20 {
+  background: #383838;
+  width: 1440px;
+  height: 101px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.copyright-velocity-inc-made-in-webflow {
+  color: #9e9e9e;
+  text-align: center;
+  font: 400 15px/20px "Open Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 151px);
+  top: 40px;
+  width: 302px;
+}

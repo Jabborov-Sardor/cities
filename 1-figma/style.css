@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    color: white;
+}
+
+header img{
+    position: relative;
+    right: 10px;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.japan{
+    display: flex;
+    letter-spacing: 4px;
+}
+
+.japan img{
+    margin-right: 15px;
+}
+h2{
+    margin: 10px 0px;
+}
+.boxtex{
+    position: relative;
+    left: 20px;
+}
+
+.box-data{
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.box a{
+    color: grey;
+    margin-left: 10px;
+}
+hr{
+    margin-top: 10px;
+}
